@@ -1,7 +1,7 @@
 # Rsc
 List of resources that I use (or plan on using) globally in my repos.
 
-- SVGs (from [devicon](https://konpa.github.io/devicon/))
+- SVGs (from [devicon](https://konpa.github.io/devicon/)):
   - Android
   - Apache
   - Babel
@@ -47,3 +47,22 @@ List of resources that I use (or plan on using) globally in my repos.
   - VueJS
   - Webpack
   - Windows 8
+
+- SVGs (from [devicons](https://vorillaz.github.io/devicons)):
+  - Code
+  - Database
+  - Dropbox
+  - Git branch/commit/compare/merge/PR
+  - GNU
+  - Google Drive
+  - JS
+  - Markdown
+  - Modernizr
+  - NPM
+  - Opera
+  - Scrum
+  - StackOverflow
+  - Sublime Text
+  - Terminal
+  - Visual Studio
+  - W3C
