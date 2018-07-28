@@ -1,2 +1,49 @@
 # Rsc
 List of resources that I use (or plan on using) globally in my repos.
+
+- SVGs (from [devicon](https://konpa.github.io/devicon/))
+  - Android
+  - Apache
+  - Babel
+  - Bitbucket
+  - Boostrap
+  - C
+  - Chrome
+  - CSS3
+  - Debian
+  - Express
+  - Facebook
+  - Firefox
+  - Gimp
+  - Git
+  - Github
+  - GitLab
+  - Google
+  - Heroku
+  - HTML5
+  - Java
+  - Jasmine
+  - JavaScript
+  - jQuery
+  - Linux
+  - Meteor
+  - Mocha
+  - MongoDB
+  - MySQL
+  - NodeJS
+  - PHP
+  - PostreSQL
+  - Python
+  - React
+  - Safari
+  - Sass
+  - Slack
+  - SSH
+  - Travis
+  - Trello
+  - Twitter
+  - Ubuntu
+  - Vim
+  - VueJS
+  - Webpack
+  - Windows 8
